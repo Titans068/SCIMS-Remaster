@@ -1,0 +1,4 @@
+C:/Users/Admin/Documents/Visual Studio 2019/Projects/Qt Applications/SCIMS_Remastered/SCIMS_Remastered/out/build/x64-Debug/CMakeFiles/SCIMS_Remastered.dir
+C:/Users/Admin/Documents/Visual Studio 2019/Projects/Qt Applications/SCIMS_Remastered/SCIMS_Remastered/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Documents/Visual Studio 2019/Projects/Qt Applications/SCIMS_Remastered/SCIMS_Remastered/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Admin/Documents/Visual Studio 2019/Projects/Qt Applications/SCIMS_Remastered/SCIMS_Remastered/out/build/x64-Debug/CMakeFiles/SCIMS_Remastered_autogen.dir
